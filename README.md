@@ -16,4 +16,4 @@ Create a script that will loop through all the stocks for one year and output th
 
 For submission: 
  screenshot for each year of results on Multi-Year Stock Data
- VBA scripts as separate files
+ VBA script as separate file
